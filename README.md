@@ -1,2 +1,2 @@
-# Sql-Project
-Bihar-legislative-election-2020
+SQL_Project
+Bihar_Legislative_Election-2020
