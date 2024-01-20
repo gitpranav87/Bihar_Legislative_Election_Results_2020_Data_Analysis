@@ -1,3 +1,3 @@
 SQL_Project
 
-Bihar_Legislative_Election-2020
+Bihar_Legislative_Election_2020
