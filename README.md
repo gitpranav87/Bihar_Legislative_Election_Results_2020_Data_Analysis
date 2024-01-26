@@ -32,7 +32,9 @@ The dataset utilized in this project is sourced from Election Commission of Indi
 Feel free to explore the schema to gain a deeper understanding of the dataset and tailor your queries accordingly.
 
 
-##Final_Visualization
+## Final_Visualization
+
+
 ![Final_Visualization](https://github.com/gitpranav87/SQL_Project/blob/main/Final_Visualization.png)
 
 
