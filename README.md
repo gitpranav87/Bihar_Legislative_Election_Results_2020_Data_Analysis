@@ -16,3 +16,37 @@ The Bihar Legislative Election Results 2020 SQL project is aimed at exploring an
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/gitpranav87/SQL_Project
+## Database Setup
+
+To get started with the Bihar Legislative Election Results 2020 SQL project, follow these steps:
+
+1. **Install an SQL Database Server:**
+   - Choose an SQL database server such as MySQL or PostgreSQL and install it on your system.
+
+2. **Execute SQL Script:**
+   - Run the SQL script (`election_results_schema.sql`) to set up the database schema and populate it with the election data.
+
+## Run Queries
+
+Follow these steps to run queries on the project:
+
+1. **Use Your Preferred SQL Client:**
+   - Open your preferred SQL client (e.g., MySQL Workbench) to interact with the database.
+
+2. **Explore and Customize Queries:**
+   - Navigate to the project's SQL queries and run them to extract insights from the election data.
+   - Feel free to customize the queries based on your specific analysis requirements.
+
+## Database Schema
+
+The database schema provides a structured view of the election dataset, including the following tables:
+
+- **candidates:** Information about candidates participating in the election.
+- **constituencies:** Details of constituencies in Bihar.
+- **votes:** Data about votes cast, including candidate ID, constituency ID, and vote count.
+
+Feel free to explore the schema to gain a deeper understanding of the dataset and tailor your queries accordingly.
+
+---
+
+This should provide a clear and concise guide for users to set up the database, run queries, and understand the structure of the database schema in your Bihar Legislative Election Results 2020 SQL project.
