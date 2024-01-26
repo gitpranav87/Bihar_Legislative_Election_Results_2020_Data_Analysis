@@ -15,4 +15,4 @@ The Bihar Legislative Election Results 2020 SQL project is aimed at exploring an
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bihar-election-results-2020-sql.git
+   git clone https://github.com/gitpranav87/SQL_Project
