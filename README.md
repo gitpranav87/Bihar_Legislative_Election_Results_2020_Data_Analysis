@@ -28,6 +28,7 @@ The database schema provides a structured view of the election dataset, includin
 ## Data Sources
 
 The dataset utilized in this project is sourced from Election Commission of India.
+
 Feel free to explore the schema to gain a deeper understanding of the dataset and tailor your queries accordingly.
 
 ---
